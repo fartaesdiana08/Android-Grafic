@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SubiectGrafic</string>
+    <string name="denumire">Denumire</string>
+    <string name="save">Save</string>
+    <string name="indicatii">Indicatii</string>
+    <string name="calorii_arse">Calorii arse</string>
+    <string name="adauga_ex">Adauga ex</string>
+    <string name="normalizare">Normalizare</string>
+    <string name="denumire_error">Completeaza denumire</string>
+    <string name="repetari_error">Completeaza repetari</string>
+    <string name="calorii_error">Completeaza calorii</string>
+    <string name="indicatii_error">Completeaza indicatii</string>
+
+    <string-array name="grupa_muschi">
+        <item>biceps</item>
+        <item>triceps</item>
+        <item>abdomen</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
